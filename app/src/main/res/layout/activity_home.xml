@@ -93,11 +93,12 @@
                                 android:textColor="@android:color/black" />
 
                             <Button
+                                android:id="@+id/button_margherita"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="8dp"
-                                android:text="@string/commander"
                                 android:backgroundTint="@color/purple_500"
+                                android:text="@string/commander"
                                 android:textColor="@android:color/white" />
                         </LinearLayout>
 
@@ -125,6 +126,7 @@
                                 android:textColor="@android:color/black" />
 
                             <Button
+                                android:id="@+id/button_pepperoni"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="8dp"
@@ -156,6 +158,7 @@
                                 android:textColor="@android:color/black" />
 
                             <Button
+                                android:id="@+id/button_vgtarienne"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="8dp"
@@ -234,6 +237,7 @@
                                 android:textColor="@android:color/black" />
 
                             <Button
+                                android:id="@+id/button_view_cart"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="8dp"
