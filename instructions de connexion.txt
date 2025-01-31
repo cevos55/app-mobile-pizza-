@@ -1,0 +1,42 @@
+**Instructions pour se connecter à l'application**
+
+Bienvenue dans l'application ! Suivez ces étapes pour vous inscrire et vous connecter correctement.
+
+### 1. **Inscription**
+Si vous n'avez pas encore de compte, suivez ces étapes :
+
+1. Ouvrez l'application et appuyez sur "Créer un compte".
+2. Saisissez une adresse e-mail valide et un mot de passe sécurisé (au moins 6 caractères).
+3. Cliquez sur le bouton "S'inscrire".
+4. Un e-mail de vérification vous sera envoyé.
+5. Ouvrez votre boîte mail et cliquez sur le lien de confirmation.
+6. Une fois votre e-mail vérifié, retournez dans l'application et connectez-vous.
+
+### 2. **Connexion**
+Si vous avez déjà un compte :
+
+1. Ouvrez l'application et saisissez votre e-mail et votre mot de passe.
+2. Cliquez sur "Se connecter".
+3. Si vos informations sont correctes et que votre e-mail est vérifié, vous accéderez à votre espace utilisateur.
+
+### 3. **Problèmes courants et solutions**
+
+- **Mot de passe oublié ?**
+  - Cliquez sur "Mot de passe oublié ?" sur l'écran de connexion et suivez les instructions.
+
+- **Email non vérifié ?**
+  - Vérifiez votre boîte de réception et vos spams.
+  - Si vous n'avez pas reçu l'email, reconnectez-vous et une option pour renvoyer l'email de vérification apparaîtra.
+
+- **Erreur "Compte introuvable" ?**
+  - Vérifiez que vous avez bien entré votre email.
+  - Assurez-vous que vous avez créé un compte auparavant.
+
+- **Erreur "Mot de passe incorrect" ?**
+  - Vérifiez que votre mot de passe est bien saisi.
+  - Utilisez l'option "Mot de passe oublié" si nécessaire.
+
+Si vous rencontrez d'autres problèmes, contactez le support technique.
+
+Bonne utilisation !
+
